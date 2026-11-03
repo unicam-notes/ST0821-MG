@@ -1,8 +1,8 @@
-# ST0851-Programmazione
+# ST0821-Matematica Generale
 
-Programmazione.
+Matematica Generale.
 
 A.A. 2026/2027
 
-*Professore:* Michele Loreti, Rosario Culmone <br>
-*Tutor:* _inserire nome tutor_
+**Professore:** Barbina Silvia, Sonia L'Innocente <br>
+**Tutor:** _inserire nome tutor_
